@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home3/predreams/public_html/
-    - /bin/cp -R predreams-site $DEPLOYPATH
+    - /bin/cp -R predreams $DEPLOYPATH
